@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   </a>
 </p>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dwiyandra-raysha-putra-syawal-87270b326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
