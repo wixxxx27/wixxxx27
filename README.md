@@ -42,8 +42,6 @@
 
 ---
 
-### 🎧 Now Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31pd4frj7bk5sknvaiciqeuvlobi)
 
 
 <img src="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/snake.svg" alt="Snake animation" />
