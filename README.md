@@ -9,10 +9,10 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo"  />
-  <img width="100" />
+  <img src="https://skillicons.dev/icons?i=py" height="150" alt="python logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="100" alt="cplusplus logo"  />
-  <img width="100" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="java logo"  />
 </div>
 
