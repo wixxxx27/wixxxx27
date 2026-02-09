@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+![Github Profile](img/github%20profile.jpg)
 <h1 align="center">Welcome! Let’s connect and get to know each other!!</h1>
 
 ###
@@ -28,14 +28,37 @@
 </div>
 
 ---
+
+# ✨NICE TO SEE U!!✨
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBjdnRsamV1czFqY3diMWRmd3N2Y3Z6OTg5dWUxcG9pbG02eDgyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lopx9eUi34rbq/giphy.gif"  />
 </div>
 
-###
+---
+
+### ✍️ Reminder
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=wixxxx27&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=8&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
+
+
 
 ###
