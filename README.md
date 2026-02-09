@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Welcome! Let’s connect and get to know each other!!</h2>
+<h1 align="center">Welcome! Let’s connect and get to know each other!!</h1>
 
 ###
 
@@ -28,21 +28,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ray">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ray&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
