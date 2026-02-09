@@ -33,6 +33,19 @@
 
 ###
 
+---
+
+## 🎶 Spotify Activity
+
+### 🔝 Top 5 Tracks
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pd4frj7bk5sknvaiciqeuvlobi&count=5)
+
+---
+
+### 🎧 Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31pd4frj7bk5sknvaiciqeuvlobi)
+
+
 <img src="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/snake.svg" alt="Snake animation" />
 
 ###
