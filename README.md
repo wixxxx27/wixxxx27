@@ -30,7 +30,7 @@
 
 ---
 
-# ✨NICE TO SEE U!!✨
+# ✨NICE TO MEET U!!✨
 
 ###
 
