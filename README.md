@@ -36,9 +36,9 @@
 
 ---
 
-## 🎶 Spotify Activity
+## 🎶 My Spotify Activity
 
-### 🔝 Top 5 Tracks
+### 🎧 What Am i Vibing to??
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31pd4frj7bk5sknvaiciqeuvlobi&count=5)
 
 ---
@@ -53,7 +53,7 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBjdnRsamV1czFqY3diMWRmd3N2Y3Z6OTg5dWUxcG9pbG02eDgyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lopx9eUi34rbq/giphy.gif"  />
 </div>
 
-![meme](img/memecoding.jpeg)
+![meme](img/memecoding(2).jpeg)
 ---
 
 ### ✍️ Reminder
