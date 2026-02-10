@@ -4,16 +4,7 @@
 
 ###
 ![Github Profile](img/github%20profile.jpg)
-<h1 align="center" style="
-  font-size: 40px;
-  background: linear-gradient(270deg, #F5FBE6, #215E61, #233D4D, #FE7F2D, #3D45AA, #9929EA);
-  background-size: 1200% 1200%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: rainbow 10s ease infinite;
-">
-  Welcome! Let’s connect and get to know each other!!
-</h1>
+<h1 align="center">Welcome! Let’s connect and get to know each other!!</h1>
 
 <style>
 @keyframes rainbow {
