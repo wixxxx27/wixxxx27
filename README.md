@@ -6,13 +6,6 @@
 ![Github Profile](img/github%20profile.jpg)
 <h1 align="center">Welcome! Let’s connect and get to know each other!!!</h1>
 
-<style>
-@keyframes rainbow {
-  0% {background-position:0% 50%}
-  50% {background-position:100% 50%}
-  100% {background-position:0% 50%}
-}
-</style>
 
 ###
 ---
