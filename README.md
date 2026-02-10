@@ -58,7 +58,6 @@
 </p>
 
 <p align="center">
-  <b>Ini teks di tengah gambar</b>
 </p>
 ---
 
