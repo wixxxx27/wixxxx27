@@ -4,7 +4,24 @@
 
 ###
 ![Github Profile](img/github%20profile.jpg)
-<h1 align="center">Welcome! Let’s connect and get to know each other!!</h1>
+<h1 align="center" style="
+  font-size: 40px;
+  background: linear-gradient(270deg, #F5FBE6, #215E61, #233D4D, #FE7F2D, #3D45AA, #9929EA);
+  background-size: 1200% 1200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 10s ease infinite;
+">
+  Welcome! Let’s connect and get to know each other!!
+</h1>
+
+<style>
+@keyframes rainbow {
+  0% {background-position:0% 50%}
+  50% {background-position:100% 50%}
+  100% {background-position:0% 50%}
+}
+</style>
 
 ###
 ---
@@ -43,11 +60,15 @@
 
 ---
 
-
+## 🐍  Don't Let It Bite U
 
 <img src="https://raw.githubusercontent.com/wixxxx27 /wixxxx27 /output/snake.svg" alt="Snake animation" />
 
-###
+
+
+---
+
+## 😼 Meme
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBjdnRsamV1czFqY3diMWRmd3N2Y3Z6OTg5dWUxcG9pbG02eDgyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lopx9eUi34rbq/giphy.gif"  />
@@ -59,6 +80,7 @@
 
 <p align="center">
 </p>
+
 ---
 
 ### ✍️ Reminder
