@@ -53,7 +53,13 @@
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBjdnRsamV1czFqY3diMWRmd3N2Y3Z6OTg5dWUxcG9pbG02eDgyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lopx9eUi34rbq/giphy.gif"  />
 </div>
 
-![meme](img/memecoding(2).jpeg)
+<p align="center">
+  <img src="img/memecoding(2).jpeg" alt="meme" width="400"/>
+</p>
+
+<p align="center">
+  <b>Ini teks di tengah gambar</b>
+</p>
 ---
 
 ### ✍️ Reminder
